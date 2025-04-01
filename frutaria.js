@@ -37,3 +37,10 @@ copiaEstoqueUnico.sort();
 estoqueUnico = [];
 console.log(estoqueUnico);
 console.log(copiaEstoqueUnico);
+
+
+console.log(somar(1,2));
+
+function somar(a, b) {
+    return a + b;
+}
